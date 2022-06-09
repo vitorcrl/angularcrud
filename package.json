@@ -1,0 +1,19 @@
+{
+  "name": "angular-crud",
+  "version": "1.0.0",
+  "description": "Curso Angular Crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cod3rcursos/angular-crud.git"
+  },
+  "author": "Vitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cod3rcursos/angular-crud/issues"
+  },
+  "homepage": "https://github.com/cod3rcursos/angular-crud#readme"
+}
